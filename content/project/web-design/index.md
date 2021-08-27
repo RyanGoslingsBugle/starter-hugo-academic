@@ -12,10 +12,6 @@ image:
   focal_point: Smart
   preview_only: true
 ---
-# Web Design
-
-Some examples of commercial website development experience.
-
 # Paisley Book Festival
 
 Site design, implementation, and administration for a Scottish literary festival. Written in Python/Django.
