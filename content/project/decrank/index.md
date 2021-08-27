@@ -13,7 +13,7 @@ tags:
   - nlp
 external_link: https://github.com/RyanGoslingsBugle/decrank/blob/master/main.py
 image:
-  filename: code.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: true
 ---
