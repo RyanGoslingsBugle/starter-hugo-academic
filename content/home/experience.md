@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Data Study Group Science Support
     company: Alan Turing Institute
-    company_url: ''
+    company_url: '2021-07-01'
     company_logo: ati
     location: London, England
     date_start: ''
