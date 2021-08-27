@@ -11,6 +11,7 @@ image:
   filename: featured.jpg
   focal_point: Center
   preview_only: false
+  caption: Courtesy John Mueller at ArtStation
 ---
 **[Fiterite](https://github.com/RyanGoslingsBugle/fiterite)**
 
