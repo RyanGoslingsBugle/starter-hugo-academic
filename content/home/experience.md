@@ -29,13 +29,11 @@ experience:
     location: London, England
     date_start: '2021-07-01'
     date_end: ''
-    description: "|2-Provide academic advisory support to the Alan Turing Institute staff who set up and conduct Data Study Group sessions. This involves:
-
-* assessment of challenge proposals for scientific rigor
-* participant, facilitator, and principal investigator application assessment
-* providing training and support to participants
-* reviewing and editing group research outputs, including code, data, and written reports"
-    
+    description: "Provide academic advisory support to the Alan Turing Institute staff who set up and conduct Data Study Group sessions. This involves:\n
+    * assessment of challenge proposals for scientific rigor\n
+    * participant, facilitator, and principal investigator application assessment\n
+    * providing training and support to participants\n
+    * reviewing and editing group research outputs, including code, data, and written reports"
   - title: PhD Student
     company: Edinburgh Napier University
     company_url: ''
@@ -43,7 +41,7 @@ experience:
     location: Edinburgh, Scotland
     date_start: '2020-03-01'
     date_end: ''
-    description: "Researching machine learning technologies with a focus on privacy, member of the Nature-Inspired Intelligent Systems group. Also involved in teaching and student support."
+    description: "Researching machine learning technologies with a focus on privacy as a member of the Nature-Inspired Intelligent Systems group. Also involved in teaching and student support."
         
   - title: Web Developer
     company: Freelance
