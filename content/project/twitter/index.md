@@ -30,7 +30,7 @@ Create your own Dwarf Fortress bugs with machine learning.
 
 This is a little toy project designed to generate sample Dwarf Fortress bug texts using a pre-trained neural network. Uses Tensorflow 1.14 and the GPT-2-simple package to do this in as few steps as possible.
 
-![dorf_bugs](https://ryangoslingsbugle.github.io/files/twitter-bots/dorf.png)
+![](dorf.png)
 
 # [album_generator](https://github.com/RyanGoslingsBugle/album-generator)
 
@@ -50,7 +50,7 @@ To Do This:
 
 I threw in some PIL automation, and viola, a joke that was no longer all that funny.
 
-![album_generator](https://ryangoslingsbugle.github.io/files/twitter-bots/album.PNG)
+![album_generator](album.png)
 
 # [seagalbot](https://github.com/RyanGoslingsBugle/seagalbot)
 
@@ -60,7 +60,7 @@ Uses the Imgflip API to attach a semi-randomly generated Steven Seagal film titl
 
 No, I’m not sure why either.
 
-![seagalbot](https://ryangoslingsbugle.github.io/files/twitter-bots/seagal.PNG)
+![seagalbot](seagal.png)
 
 # [amazinganimals](https://github.com/RyanGoslingsBugle/amazinganimals)
 
@@ -70,7 +70,7 @@ This one is quite nice really. It grabs a species listing plus an image from ark
 
 Generates a single image and link, checks new followers and follows any not currently being followed with a welcome message every time it executes (NOW BANNABLE, DON’T USE), so hook it up to a crontab and go wild.
 
-![amazinganimals](https://ryangoslingsbugle.github.io/files/twitter-bots/animals.PNG)
+![amazinganimals](animals.png)
 
 # [unseentng](https://github.com/RyanGoslingsBugle/unseentng)
 
@@ -78,7 +78,7 @@ Generates a single image and link, checks new followers and follows any not curr
 
 Smashes together various sentence fragments and nouns to create silly-sounding but semi-plausible plot summaries for episodes of Star Trek: The Next Generation.
 
-![unseentng](https://ryangoslingsbugle.github.io/files/twitter-bots/tng.PNG)
+![unseentng](tng.png)
 
 # [theory_bot](https://github.com/RyanGoslingsBugle/theory_bot)
 
@@ -87,5 +87,7 @@ Smashes together various sentence fragments and nouns to create silly-sounding b
 Another simple one, just semi-randomly picks a noun from a txt file and tweets “Towards a Marxist theory of <noun>”.
 
 I may have done this during a night shift, it feels like a very 4AM kind of idea.
+
+![](theory.png)
 
 <!--EndFragment-->

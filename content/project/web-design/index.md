@@ -12,14 +12,14 @@ image:
   focal_point: Smart
   preview_only: true
 ---
-# Paisley Book Festival
+# [Paisley Book Festival](https://paisleybookfest.com/)
 
 Site design, implementation, and administration for a Scottish literary festival. Written in Python/Django.
 
-[![Paisley Book Festival](https://ryangoslingsbugle.github.io/images/paisley.png)](https://paisleybookfest.com/)
+![Paisley Book Festival](paisley.png)
 
-# Dying to Divorce
+# [Dying to Divorce](https://dyingtodivorce.com/)
 
-Site design and administration for a documentary film about domestic violence in Turkey. Static site generated with Gulp/NPM, with custom Python extensions for dynamic content generation.
+Site design and administration for a documentary film about domestic violence in Turkey. Static site generated with Gulp/NPM, with custom Python extensions for dynamic content generation
 
-[![Dying to Divorce](https://ryangoslingsbugle.github.io/images/dying_to_divorce.png)](https://dyingtodivorce.com/)
+![Dying to Divorce](dying_to_divorce.png)
