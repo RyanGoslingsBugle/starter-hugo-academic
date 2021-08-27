@@ -51,7 +51,7 @@ experience:
     company_logo: ''
     location: Edinburgh, Scotland
     date_start: '2016-04-01'
-    date_end: '2020-02-30'
+    date_end: '2020-03-01'
     description: "Freelance web developer, working on full-stack applications for various clients. My key focus was identifying and serving the needs of businesses and individuals by choosing the best technologies and platforms for their particular use-cases, and providing top-class development, maintenance, documentation, training and support."
 
 design:
