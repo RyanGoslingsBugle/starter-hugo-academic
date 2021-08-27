@@ -2,7 +2,7 @@
 title: Warhammer
 subtitle: A collection of projects relating to Warhammer
 date: 2021-08-27T11:29:53.944Z
-summary: Some code projects for Warhammer players and organizers
+summary: Code projects for Warhammer players and organizers
 draft: false
 featured: false
 tags:
