@@ -27,6 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: Machine Learning
+    tag: machine learning
   - name: Social Media
     tag: social media
   - name: Development
