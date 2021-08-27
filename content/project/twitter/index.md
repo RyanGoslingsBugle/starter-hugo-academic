@@ -3,7 +3,7 @@ slides: ""
 url_pdf: ""
 summary: A collection of amusing, unhelpful, and sometimes annoying Twitter automations.
 url_video: ""
-date: 2021-08-21T00:00:00Z
+date: 2021-08-21T00:00:00.000Z
 external_link: ""
 url_slides: ""
 title: Twitter bots
@@ -15,6 +15,7 @@ image:
   caption: ""
   focal_point: Smart
   preview_only: true
+  filename: featured.png
 url_code: ""
 ---
 A collection of amusing, unhelpful, and sometimes annoying Twitter automations. Most of these are not currently running (because I’ve let them lapse, not because they were banned).
