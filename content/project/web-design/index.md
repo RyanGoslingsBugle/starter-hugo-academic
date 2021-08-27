@@ -10,7 +10,7 @@ tags:
 image:
   filename: https://ryangoslingsbugle.github.io/images/dying_to_divorce.png
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 ---
 # Paisley Book Festival
 
