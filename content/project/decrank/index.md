@@ -11,7 +11,7 @@ tags:
   - deep learning
   - machine learning
   - nlp
-external_link: https://github.com/RyanGoslingsBugle/decrank/blob/master/main.py
+external_link: https://github.com/RyanGoslingsBugle/decrank/
 image:
   filename: featured.jpg
   focal_point: Smart
