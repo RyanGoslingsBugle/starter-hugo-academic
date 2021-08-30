@@ -6,8 +6,8 @@ authors:
   - Richard Plant
   - Dimitra Gkatzia
   - Valerio Giuffrida
-author_notes:
-  - Edinburgh Napier University
+author_notes: []
+publication: Accepted to EMNLP 21
 abstract: Deep learning-based language models have achieved state-of-the-art
   results in a number of applications including sentiment analysis, topic
   labelling, intent classification and others. Obtaining text representations or
