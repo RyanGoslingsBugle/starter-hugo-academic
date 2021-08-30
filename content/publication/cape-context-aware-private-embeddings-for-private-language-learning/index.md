@@ -38,4 +38,6 @@ summary: Large pre-trained language models have pushed the boundaries of the
   adds calibrated noise and an adversarial training objective to reduce private
   information leakage.
 date: 2021-08-30T08:48:27.069Z
+url_pdf: https://arxiv.org/pdf/2108.12318.pdf
+url_code: https://github.com/RyanGoslingsBugle/priv-text
 ---
