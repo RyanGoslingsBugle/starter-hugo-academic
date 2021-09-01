@@ -17,7 +17,7 @@ social:
     link: https://orcid.org/0000-0002-0239-2090
   - icon: github
     icon_pack: fab
-    link: https://github.com/RyanGoslingsBugle/
+    link: https://github.com/richplant/
   - icon: linkedin
     icon_pack: fab
     link: https://linkedin.com/in/remplant
