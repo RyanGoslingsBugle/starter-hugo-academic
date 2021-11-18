@@ -18,7 +18,7 @@ item:
     organization_url: https://www.coursera.org/
     title: ML Pipelines on Google Cloud
     url: https://www.coursera.org/learn/ml-pipelines-google-cloud
-  - certificate_url: ""
+  - certificate_url: https://www.coursera.org/account/accomplishments/verify/99C3EAEFABR3
     date_end: ""
     date_start: 2020-10-01
     description: ""

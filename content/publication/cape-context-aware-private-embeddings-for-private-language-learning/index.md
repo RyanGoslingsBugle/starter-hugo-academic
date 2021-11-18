@@ -7,7 +7,7 @@ authors:
   - Dimitra Gkatzia
   - Valerio Giuffrida
 author_notes: []
-publication: Accepted to EMNLP 21
+publication: Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing
 abstract: Deep learning-based language models have achieved state-of-the-art
   results in a number of applications including sentiment analysis, topic
   labelling, intent classification and others. Obtaining text representations or
@@ -38,6 +38,6 @@ summary: Large pre-trained language models have pushed the boundaries of the
   adds calibrated noise and an adversarial training objective to reduce private
   information leakage.
 date: 2021-08-30T08:48:27.069Z
-url_pdf: https://arxiv.org/pdf/2108.12318.pdf
+url_pdf: https://aclanthology.org/2021.emnlp-main.628/
 url_code: https://github.com/RyanGoslingsBugle/priv-text
 ---
