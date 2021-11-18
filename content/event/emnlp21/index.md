@@ -25,17 +25,18 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   filename: featured.png
   caption: ""
   focal_point: Smart
+  preview_only: true
 
 url_code: "https://github.com/RyanGoslingsBugle/priv-text"
 url_pdf: "https://aclanthology.org/2021.emnlp-main.628/"
-url_slides: "emnlp_21_poster.pptx"
-url_video: ""
+url_slides: "uploads/emnlp_21_poster.pptx"
+url_video: "emnlp_21_presentation.mp4"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -51,5 +52,4 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: ""
 ---
-
-{{< video library="true" src="emnlp_21_presentation.mp4" controls="yes" >}}
+{{< video src="emnlp_21_presentation.mp4" controls="yes" >}}
