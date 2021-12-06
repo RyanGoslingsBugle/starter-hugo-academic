@@ -17,6 +17,14 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: ''
+  icon: user-shield
+  icon_pack: fas
+  name: Privacy
+- description: ''
+  icon: book
+  icon_pack: fas
+  name: NLP
+- description: ''
   icon: python
   icon_pack: fab
   name: Python
