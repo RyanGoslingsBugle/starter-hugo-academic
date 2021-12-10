@@ -35,7 +35,9 @@ This aim of this challenge is to explore these questions, with a focus on (but n
 # Summary. An optional shortened abstract.
 summary: "A summary report of methods to gauge the suitability and privacy of synthetic datasets, produced for the Alan Turing Institute's Data Study Group programme."
 
-tags: []
+tags:
+- privacy
+- synthetic data
 categories: []
 featured: false
 
